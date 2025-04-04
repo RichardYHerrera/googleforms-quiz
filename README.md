@@ -25,3 +25,12 @@ Evitar utilizar preguntas con validacion
   <img height="200" src="https://raw.githubusercontent.com/RichardYHerrera/googleforms-quiz/refs/heads/main/validacion.png"  />
  
 </div>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1 align="center">HOTLINE SOCIETY</h1>
+  <img height="500" src="https://raw.githubusercontent.com/RichardYHerrera/googleforms-quiz/refs/heads/main/bonus.png"  />
+ 
+</div>
+
