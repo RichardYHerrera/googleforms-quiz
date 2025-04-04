@@ -1,5 +1,7 @@
 # googleforms-quiz /// ver respuestas
-
+<div align="center">
+  <img height="500" src="https://raw.githubusercontent.com/RichardYHerrera/googleforms-quiz/refs/heads/main/validacion.png"  />
+</div>
 
 <h1 align="center">Validación de respuesta de Google forms</h1>
 
