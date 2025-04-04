@@ -1,2 +1,8 @@
-# googleforms-quiz
-En Google Forms. Es cierto que las reglas de validación están en el código fuente de un formulario.
+# googleforms-quiz /// ver respuestas
+
+
+<h1 align="center">Validación de respuesta de Google forms</h1>
+
+<h4 align="center">En Google Forms. Es cierto que las reglas de validación están en el código fuente de un formulario.</h1>
+
+La validación de respuestas en Google Forms es una función que permite establecer criterios específicos para las respuestas de los usuarios. Es útil para garantizar que las respuestas cumplan con ciertos requisitos, evitando errores o datos incorrectos.
